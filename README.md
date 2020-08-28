@@ -1,4 +1,4 @@
-# Hello there, I'm Adam Jacobson - aka [djangothesolarboy][website]
+<a href="https://adamjacobsons.website"><img align="center" alt="gif" src="https://github.com/djangothesolarboy/djangothesolarboy/blob/master/ezgif.com-optimize%20(1).gif?raw=true"></a>
 
 ## I am a student at App Academy!
 
@@ -35,6 +35,5 @@
 
 <img align="left" alt="djangothesolarboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=djangothesolarboy&theme=tokyonight&show_icons=true&hide_border=true" />
 
-[website]: https://adamjacobsons.website
 [mygames]: https://solarisboylabs.com
 [itch.io]: https://solarisboylabs.itch.io
