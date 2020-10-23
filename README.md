@@ -1,39 +1,39 @@
 <a href="https://adamjacobsons.website"><img align="center" alt="gif" src="https://github.com/djangothesolarboy/djangothesolarboy/blob/master/ezgif.com-optimize%20(1).gif?raw=true"></a>
 
-## I am a student at App Academy!
+## <img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">I am a student at App Academy!
 
-- I'm currently learning Javascript, HTML, CSS.
+- I'm currently learning full stack development.
 
 - I'm looking forward to developing applications and websites.
 
 - I've made 2 games using Unity and C#. 
 
-- 2020 Goal: Land a job within the industry.
+- 2021 Goal: Land a job within the industry.
 
 - Longterm Goal: Create a game from scratch using my own art.
 
 - Fun Facts: I draw digitally, enjoy video games, and love horror movies!
 
-### Languages and Tools I Use:
+### <img src="https://img.icons8.com/cotton/2x/wrench--v2.png" height="20px">Technologies && Tools:
 
-<img align="center" alt="djangothesolarboy's Top Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djangothesolarboy&layout=compact" /> <br />
+---
 
-![](https://img.shields.io/badge/Sublime-Editor-informational?style=flat&logo=Sublime-Text&logoColor=white&color=00bbff)![](https://img.shields.io/badge/VS_Code-Editor-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=00bbff)![](https://img.shields.io/badge/JavaScript-Lang-informational?style=flat&logo=JavaScript&logoColor=white&color=00bbff)![](https://img.shields.io/badge/HTML-Lang-informational?style=flat&logo=HTML5&logoColor=white&color=00bbff)![](https://img.shields.io/badge/CSS-Lang-informational?style=flat&logo=CSS3&logoColor=white&color=00bbff)![](https://img.shields.io/badge/Markdown-Markup_Lang-informational?style=flat&logo=Markdown&logoColor=white&color=00bbff)![](https://img.shields.io/badge/NPM-Pkg_Manager-informational?style=flat&logo=NPM&logoColor=white&color=00bbff)![](https://img.shields.io/badge/Nodemon-Utility-informational?style=flat&logo=Nodemon&logoColor=white&color=00bbff)![](https://img.shields.io/badge/Node.js-JS_Runtime-informational?style=flat&logo=Node.js&logoColor=white&color=00bbff)![](https://img.shields.io/badge/Git-Src_Control-informational?style=flat&logo=Git&logoColor=white&color=00bbff)![](https://img.shields.io/badge/PostgreSQL-ORDMS-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00bbff)![](https://img.shields.io/badge/Firefox-Browser-informational?style=flat&logo=Firefox-Browser&logoColor=white&color=00bbff)![](https://img.shields.io/badge/Mac-OS-informational?style=flat&logo=Apple&logoColor=white&color=00bbff)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=Sublime-Text&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Editor-Vs_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Code-Code-informational?style=flat&logo=CSS3&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=NPM&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Tools-Nodemon-informational?style=flat&logo=Nodemon&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox-Browser&logoColor=white&color=00bbff) ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=00bbff)
 
-<br />
-<br />
+### <img src="https://img.icons8.com/cotton/2x/web-design.png" height="20px">My Websites:
 
-### My Games:
+---
 
-- [Website for the games I've made][mygames]
+[Solaris Boy Labs][mygames]
 
-- [Play them here][itch.io]
+[AdamJacobsons.website][mywebsite]
 
-<br />
+
+### <img src="https://img.icons8.com/dusk/2x/statistics.png" height="20px" padding-top="5px">Git Stats
 
 ---
 
 <img align="left" alt="djangothesolarboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=djangothesolarboy&theme=tokyonight&show_icons=true&hide_border=true" />
 
 [mygames]: https://solarisboylabs.com
-[itch.io]: https://solarisboylabs.itch.io
+[mywebsite]: https://adamjacobsons.website
