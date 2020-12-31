@@ -29,6 +29,6 @@
 
 ---
 
-[![Damien's github stats](https://github-readme-stats.vercel.app/api?username=djangothesolarboy)](https://github.com/djangothesolarboy/github-readme-stats)
+[![Damien's github stats](https://github-readme-stats.vercel.app/api?username=djangothesolarboy&show_icons=true&theme=dark)](https://github.com/djangothesolarboy/github-readme-stats)
 
 [mygames]: https://solarisboylabs.com
