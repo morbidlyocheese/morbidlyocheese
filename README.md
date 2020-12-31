@@ -24,14 +24,11 @@
 
 [Solaris Boy Labs][mygames]
 
-[AdamJacobsons.website][mywebsite]
-
 
 ### <img src="https://img.icons8.com/dusk/2x/statistics.png" height="20px" padding-top="5px">Git Stats
 
 ---
 
-<img align="left" alt="djangothesolarboy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=djangothesolarboy&theme=tokyonight&show_icons=true&hide_border=true" />
+[![Damien's github stats](https://github-readme-stats.vercel.app/api?username=djangothesolarboy)](https://github.com/djangothesolarboy/github-readme-stats)
 
 [mygames]: https://solarisboylabs.com
-[mywebsite]: https://adamjacobsons.website
