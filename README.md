@@ -1,8 +1,8 @@
 <img src="./name.gif">  
 
 <img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">I am a student at App Academy!    
-
 ---    
+
 - I'm currently learning full stack development.
 - I'm looking forward to developing applications and websites.  
 - I've made 2 games using Unity and C#. And plan to make more in my free time.
