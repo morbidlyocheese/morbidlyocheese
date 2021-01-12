@@ -1,4 +1,4 @@
-<img src="./name.gif">  
+<img src="./django-big.png">  
 
 <img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">I am a student at App Academy!    
 ---    
