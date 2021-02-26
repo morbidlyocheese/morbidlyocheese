@@ -1,6 +1,6 @@
 <img src="./django-big.png">  
 
-<img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">I am a student at App Academy!    
+<img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">I am a Software Engineer!    
 ---    
 
 ```
@@ -17,11 +17,11 @@ class SoftwareEngineer:
 	    self.interests=[Horror Films, PC Gaming, Art, Music],
 	    self.goal='Get a job in the industry.',
 	    self.ongoing-goal=['Make games.', 'Learn a new language.'],
-	    self.current-focus='Graduate from App Academy.'
+	    self.current-focus='Land a job!'
     def say_hi(self):
         print(
             """
-            Hello there, my name is {name}, I live in {location}. I am a student at App Academy. I have a wide range of interests, but some of them are {interests}. Thanks for stopping by!
+            Hello there, my name is {name}, I live in {location}. I am a Software Engineer. I have a wide range of interests, but some of them are {interests}. Thanks for stopping by!
             """
         )
 
@@ -56,6 +56,7 @@ me.say_hi()
 
 <img src="https://img.icons8.com/cotton/2x/web-design.png" height="20px">My Websites && Things I have created:
 ---
+- [Unpopuhorroropinion][unpop] - Application for cataloging your horror collection.
 - [Solaris Boy Labs][mygames] - Website of my games.   
 - [Horrorflow][horrorflow] - Stackoverflow clone about horror films.
 
@@ -65,7 +66,7 @@ me.say_hi()
 [![Damien's github stats](https://github-readme-stats.vercel.app/api?username=djangothesolarboy&show_icons=true&theme=dark)](https://github.com/djangothesolarboy/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=djangothesolarboy&theme=onedark)](https://github.com/djangothesolarboy/github-profile-trophy)  
 
-
+[unpop]: https://unpopuhorroropinion.com
 [mygames]: https://solarisboylabs.com
 [horrorflow]: https://horrorflow.herokuapp.com
 [damiendarko.com]: https://damiendarko.com
