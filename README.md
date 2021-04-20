@@ -4,29 +4,26 @@
 ---    
 
 ```
-class SoftwareEngineer:
-    def __init__(self):
-        self.name='Damien Darko',
-	    self.pronouns='he' || 'him',
-	    self.location='RI,USA'
-	    self.code=[Javascript, HTML, CSS, Python],
-	    self.tools=[React, Redux, Node, Docker, Pug, Jinja, Flask, self.PostgreSQL, SQL],
-	    self.operating-system=['Windows 10 - WSL 2', 'PopOS! - Linux'],
-	    self.cli=zsh,
-	    self.editors=[VScode, Atom, Sublime]
-	    self.interests=[Horror Films, PC Gaming, Art, Music],
-	    self.goal='Get a job in the industry.',
-	    self.ongoing-goal=['Make games.', 'Learn a new language.'],
-	    self.current-focus='Land a job!'
-    def say_hi(self):
-        print(
-            """
-            Hello there, my name is {name}, I live in {location}. I am a Software Engineer. I have a wide range of interests, but some of them are {interests}. Thanks for stopping by!
-            """
-        )
+function SoftwareEngineer(name, pronouns, location, code, tools, operatingSystem, cli, editors, interests, goal, ongoingGoal, currentFocus) {
+	this.name = name;
+	this.pronouns = pronouns;
+	this.location = location;
+	this.code = code;
+	this.tools = tools;
+	this.operatingSystem = operatingSystem;
+	this.cli = cli;
+	this.editors = editors;
+	this.interests = interests;
+	this.goal = goal;
+	this.ongoingGoal = ongoingGoal;
+	this.currentFocus = currentFocus;
+    this.greeting = function() {
+        print(`Hello there, my name is ${this.name}, I live in ${this.location}. I am a Software Engineer. I have a wide range of interests, but some of them are ${this.interests}. Thanks for stopping by!`);
+	}
+};
 
-me = SoftwareEngineer()
-me.say_hi()
+let me = new SoftwareEngineer('Damien Darko', 'he' || 'him', 'RI,USA' [Javascript, HTML, CSS, Python], [React, Redux, Node, Docker, Pug, Jinja, Flask, self.PostgreSQL, SQL], 'Windows 10 - WSL 2', 'Macbook Air - MacOS'], zsh, [VScode, Atom, Sublime] [Horror Films, PC Gaming, Art, Music], 'Get a job in the industry.', ['Make games.', 'Learn a new language.'], 'Land a job!');
+me.greeting();
 ``` 
 [![time tracker](https://wakatime.com/badge/github/djangothesolarboy/djangothesolarboy.svg)](https://wakatime.com/badge/github/djangothesolarboy/djangothesolarboy)  
 
