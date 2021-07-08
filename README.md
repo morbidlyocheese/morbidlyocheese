@@ -1,6 +1,6 @@
-<img src="./django-big.png">  
-
-<img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">I am a student at App Academy!    
+<img src="./rubberduck-BIG.png"> [Damien Darko][portfolio]
+---
+<img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">App Academy graduate    
 ---    
 
 ```
@@ -10,8 +10,8 @@ class SoftwareEngineer:
 	    self.pronouns='he' || 'him',
 	    self.location='RI,USA'
 	    self.code=[Javascript, HTML, CSS, Python],
-	    self.tools=[React, Redux, Node, Docker, Pug, Jinja, Flask, self.PostgreSQL, SQL],
-	    self.operating-system=['Windows 10 - WSL 2', 'PopOS! - Linux'],
+	    self.tools=[React, Redux, Node, Docker, Pug, Jinja, Flask, PostgreSQL, SQL],
+	    self.operating-system='Windows 10 - WSL 2',
 	    self.cli=zsh,
 	    self.editors=[VScode, Atom, Sublime]
 	    self.interests=[Horror Films, PC Gaming, Art, Music],
@@ -21,7 +21,7 @@ class SoftwareEngineer:
     def say_hi(self):
         print(
             """
-            Hello there, my name is {name}, I live in {location}. I am a student at App Academy. I have a wide range of interests, but some of them are {interests}. Thanks for stopping by!
+            Hello there, my name is {name}, I live in {location}. I am a graduate of App Academy. I have a wide range of interests, but some of them are {interests}. Thanks for stopping by!
             """
         )
 
@@ -54,10 +54,13 @@ me.say_hi()
 ![](https://img.shields.io/badge/-Atom-58C9F2?style=flat-square&logo=atom&logoColor=white) 
 ![](https://img.shields.io/badge/-Unity-58C9F2?style=flat-square&logo=unity&logoColor=white) 
 
-<img src="https://img.icons8.com/cotton/2x/web-design.png" height="20px">My Websites && Things I have created:
+<img src="https://img.icons8.com/cotton/2x/web-design.png" height="20px">Links:
 ---
-- [Solaris Boy Labs][mygames] - Website of my games.   
+- [Portfolio Site][portfolio] - A portfoilio of my work.
+- [Unpopuhorroropinion][unpop] - Horror film catalogue.
+- [Solaris Boy Labs][mygames] - Itchio page.   
 - [Horrorflow][horrorflow] - Stackoverflow clone about horror films.
+- [Linkedin][linkedin] - Linkedin profile.
 
 
 <img src="https://img.icons8.com/dusk/2x/statistics.png" height="20px" padding-top="5px">Git Stats
@@ -66,6 +69,8 @@ me.say_hi()
 [![trophy](https://github-profile-trophy.vercel.app/?username=djangothesolarboy&theme=onedark)](https://github.com/djangothesolarboy/github-profile-trophy)  
 
 
-[mygames]: https://solarisboylabs.com
+[mygames]: https://solarisboylabs.itch.io/
 [horrorflow]: https://horrorflow.herokuapp.com
-[damiendarko.com]: https://damiendarko.com
+[portfolio]: https://damiendarko.com
+[unpop]: https://www.unpopuhorroropinion.com/
+[linkedin]: https://www.linkedin.com/in/damien-darko/
