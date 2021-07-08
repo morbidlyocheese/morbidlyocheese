@@ -25,8 +25,8 @@ class SoftwareEngineer:
             """
         )
 
-me = SoftwareEngineer()
-me.say_hi()
+let me = new SoftwareEngineer('Damien Darko', 'he' || 'him', 'RI,USA' [Javascript, HTML, CSS, Python], [React, Redux, Node, Docker, Pug, Jinja, Flask, self.PostgreSQL, SQL], 'Windows 10 - WSL 2', 'Macbook Air - MacOS'], zsh, [VScode, Atom, Sublime] [Horror Films, PC Gaming, Art, Music], 'Get a job in the industry.', ['Make games.', 'Learn a new language.'], 'Land a job!');
+me.greeting();
 ``` 
 [![time tracker](https://wakatime.com/badge/github/djangothesolarboy/djangothesolarboy.svg)](https://wakatime.com/badge/github/djangothesolarboy/djangothesolarboy)  
 
