@@ -6,7 +6,7 @@
 ```
 class SoftwareEngineer:
     def __init__(self):
-        self.name='Damien Darko',
+            self.name='Damien Darko',
 	    self.pronouns='he' || 'him',
 	    self.location='RI,USA'
 	    self.code=[Javascript, HTML, CSS, Python],
@@ -17,16 +17,13 @@ class SoftwareEngineer:
 	    self.interests=[Horror Films, PC Gaming, Art, Music],
 	    self.goal='Get a job in the industry.',
 	    self.ongoing-goal=['Make games.', 'Learn a new language.'],
-	    self.current-focus='Graduate from App Academy.'
+	    self.current_focus='Get better with coding, and improve skills.'
     def say_hi(self):
         print(
             """
-            Hello there, my name is {name}, I live in {location}. I am a graduate of App Academy. I have a wide range of interests, but some of them are {interests}. Thanks for stopping by!
+            Hello there, my name is {this.name}, I live in {this.location}. I am a graduate of App Academy. I have a wide range of interests, but some of them are {this.interests}. Thanks for stopping by!
             """
         )
-
-let me = new SoftwareEngineer('Damien Darko', 'he' || 'him', 'RI,USA' [Javascript, HTML, CSS, Python], [React, Redux, Node, Docker, Pug, Jinja, Flask, self.PostgreSQL, SQL], 'Windows 10 - WSL 2', 'Macbook Air - MacOS'], zsh, [VScode, Atom, Sublime] [Horror Films, PC Gaming, Art, Music], 'Get a job in the industry.', ['Make games.', 'Learn a new language.'], 'Land a job!');
-me.greeting();
 ``` 
 [![time tracker](https://wakatime.com/badge/github/djangothesolarboy/djangothesolarboy.svg)](https://wakatime.com/badge/github/djangothesolarboy/djangothesolarboy)  
 
