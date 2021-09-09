@@ -1,4 +1,4 @@
-<img src="./rubberduck-BIG.png"> [Damien Darko][portfolio]
+<img src="./rubberduck_squish.gif"> [Damien Darko][portfolio]
 ---
 <img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">App Academy graduate    
 ---    
@@ -6,9 +6,10 @@
 ```
 class SoftwareEngineer:
     def __init__(self):
-            self.name='Damien Darko',
+		self.name='Damien Darko',
 	    self.pronouns='he' || 'him',
-	    self.location='RI,USA'
+	    self.location='RI,USA',
+		self.currently_playing='Elder Scrolls Online, Aliens: Fireteam Elite, No Man's Sky',
 	    self.code=[Javascript, HTML, CSS, Python],
 	    self.tools=[React, Redux, Node, Docker, Pug, Jinja, Flask, PostgreSQL, SQL],
 	    self.operating-system='Windows 10 - WSL 2',
