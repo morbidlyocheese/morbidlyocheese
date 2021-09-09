@@ -54,10 +54,10 @@ class SoftwareEngineer:
 <img src="https://img.icons8.com/cotton/2x/web-design.png" height="20px">Links:
 ---
 - [Portfolio Site][portfolio] - A portfoilio of my work.
-- [Unpopuhorroropinion][unpop] - Horror film catalogue.
-- [Solaris Boy Labs][mygames] - Itchio page.   
-- [Horrorflow][horrorflow] - Stackoverflow clone about horror films.
 - [Linkedin][linkedin] - Linkedin profile.
+- [Unpopuhorroropinion][unpop] - Horror film catalogue.
+- [Horrorflow][horrorflow] - Stackoverflow clone about horror films.
+- [Solaris Boy Labs][mygames] - Itchio page.   
 
 
 <img src="https://img.icons8.com/dusk/2x/statistics.png" height="20px" padding-top="5px">Git Stats
@@ -69,5 +69,5 @@ class SoftwareEngineer:
 [mygames]: https://solarisboylabs.itch.io/
 [horrorflow]: https://horrorflow.herokuapp.com
 [portfolio]: https://damiendarko.com
-[unpop]: https://www.unpopuhorroropinion.com/
+[unpop]: https://unpopuhorror.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/damien-darko/
