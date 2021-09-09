@@ -6,19 +6,19 @@
 ```
 class SoftwareEngineer:
     def __init__(self):
-		self.name='Damien Darko',
-	    self.pronouns='he' || 'him',
-	    self.location='RI,USA',
-	    self.code=[Javascript, HTML, CSS, Python],
-	    self.tools=[React, Redux, Node, Docker, Pug, Jinja, Flask, PostgreSQL, SQL],
-	    self.operating-system='Windows 10 - WSL 2',
-	    self.cli=zsh,
-	    self.editors=[VScode, Atom, Sublime]
-		self.currently_playing='Elder Scrolls Online, Aliens: Fireteam Elite, No Man's Sky',
-	    self.interests=[Horror Films, PC Gaming, Art, Music],
-	    self.goal='Get a job in the industry.',
-	    self.ongoing-goal=['Make games.', 'Learn a new language.'],
-	    self.current_focus='Get better with coding, and improve skills.'
+	self.name='Damien Darko',
+    	self.pronouns='he' || 'him',
+    	self.location='RI,USA',
+    	self.code=[Javascript, HTML, CSS, Python],
+    	self.tools=[React, Redux, Node, Docker, Pug, Jinja, Flask, PostgreSQL, SQL],
+    	self.operating-system='Windows 10 - WSL 2',
+    	self.cli=zsh,
+    	self.editors=[VScode, Atom, Sublime]
+	self.currently_playing='Elder Scrolls Online, Aliens: Fireteam Elite, No Man's Sky',
+    	self.interests=[Horror Films, PC Gaming, Art, Music],
+    	self.goal='Get a job in the industry.',
+    	self.ongoing-goal=['Make games.', 'Learn a new language.'],
+    	self.current_focus='Get better with coding, and improve skills.'
     def say_hi(self):
         print(
             """
