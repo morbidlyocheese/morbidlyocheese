@@ -3,29 +3,35 @@
 <img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">App Academy graduate    
 ---    
 
+```javascript
+let SoftwareEngineer = class {
+	constructor(name, pronouns, location, 
+	languages, tools, interests, 
+	goal, platforms, currentlyPlaying) {
+		this.name = name;
+		this.pronouns = pronouns;
+		this.location = location;
+		this.languages = languages;
+		this.tools = tools;
+		this.interests = interests;
+		this.goal = goal;
+		this.platforms = platforms;
+		this.currentlyPlaying = currentlyPlaying;
+	}
+
+	intro() {
+		console.log(`Hi, my name is ${this.name}, pronouns are ${this.pronouns} and I am a Software Engineer. I live in ${this.location} and I am a graduate of App Academy. I am an avid gamer but right now I am currently playing ${this.currentlyPlaying}. Some languages I know are ${this.languages} and the tools I use: ${this.tools}. Thanks for stopping by!`);
+	}
+}
+
+const damien = new SoftwareEngineer('Damien', 'he/him', 'RI, USA', 
+'Javascript, HTML, CSS, Python, React, Redux,Node, Express, Flask, PostgreSQL, Jinja, and Pug', 
+'VScode, Codespace, Velocity, Atom, and Sublime', 
+'Gaming, Drawing/Art, Horror, Films, Music, Writing, and Reading', 
+'Hone my skills as a SWE.', 'PC, Switch, PS4, PS5, and Mobile(Android)', 'Elden Ring');
+damien.intro(); // Hi, my name is Damien, pronouns are he/him and I am a Software Engineer. I live in RI, USA and I am a graduate of App Academy. I am an avid gamer but right now I am currently playing Elden Ring. Some languages I know are Javascript, HTML, CSS, Python, React, Redux,Node, Express, Flask, PostgreSQL, Jinja, and Pug and the tools I use: VScode, Codespace, Velocity, Atom, and Sublime. Thanks for stopping by!
 ```
-class SoftwareEngineer:
-    def __init__(self):
-	self.name='Damien Darko',
-    	self.pronouns='he' || 'him',
-    	self.location='RI,USA',
-    	self.code=[Javascript, HTML, CSS, Python],
-    	self.tools=[React, Redux, Node, Docker, Pug, Jinja, Flask, PostgreSQL, SQL],
-    	self.operating-system='Windows 10 - WSL 2',
-    	self.cli=zsh,
-    	self.editors=[VScode, Atom, Sublime]
-	self.currently_playing='Elder Scrolls Online, Aliens: Fireteam Elite, No Man's Sky',
-    	self.interests=[Horror Films, PC Gaming, Art, Music],
-    	self.goal='Get a job in the industry.',
-    	self.ongoing-goal=['Make games.', 'Learn a new language.'],
-    	self.current_focus='Get better with coding, and improve skills.'
-    def say_hi(self):
-        print(
-            """
-            Hello there, my name is {this.name}, I live in {this.location}. I am a graduate of App Academy. I have a wide range of interests, but some of them are {this.interests}. Thanks for stopping by!
-            """
-        )
-``` 
+
 [![time tracker](https://wakatime.com/badge/github/djangothesolarboy/djangothesolarboy.svg)](https://wakatime.com/badge/github/djangothesolarboy/djangothesolarboy)  
 
 
@@ -69,6 +75,6 @@ class SoftwareEngineer:
 
 [mygames]: https://solarisboylabs.itch.io/
 [horrorflow]: https://horrorflow.herokuapp.com
-[portfolio]: https://damiendarko.com
+[portfolio]: https://damiendarko.netlify.app/
 [unpop]: https://unpopuhorror.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/damien-darko/
