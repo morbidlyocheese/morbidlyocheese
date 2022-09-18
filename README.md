@@ -1,5 +1,7 @@
 <img src="./rubberduck_squish.gif"> [Damien Darko][portfolio]
 ---
+<a href="https://app.daily.dev/zomking"><img src="https://api.daily.dev/devcards/dd62f7d4becf47afae962bd76829dc29.png?r=4r2" align="right" width="400" alt="Damien's Dev Card"/></a>
+
 <img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">App Academy graduate    
 ---    
 
