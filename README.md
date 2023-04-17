@@ -42,7 +42,7 @@ damien.intro(); // Hi, my name is Damien, pronouns are he/him and I am a Softwar
 ![](https://img.shields.io/badge/-Javasript-58C9F2?style=flat-square&logo=javascript&logoColor=white) 
 ![](https://img.shields.io/badge/-Python-58C9F2?style=flat-square&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/-HTML-58C9F2?style=flat-square&logo=html5&logoColor=white) 
-![](https://img.shields.io/badge/-CSS-58C9F2?style=flat-square&logo=css3&logoColor=white)  
+![](https://img.shields.io/badge/-CSS-58C9F2?style=flat-square&logo=css3&logoColor=white) 
 ![](https://img.shields.io/badge/-Vue.js-58C9F2?style=flat-square&logo=vue.js&logoColor=white)  
 ![](https://img.shields.io/badge/-Express-EDA4B2?style=flat-square&logo=express&logoColor=white) 
 ![](https://img.shields.io/badge/-Flask-EDA4B2?style=flat-square&logo=flask&logoColor=white) 
