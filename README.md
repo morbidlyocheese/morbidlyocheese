@@ -1,6 +1,6 @@
-<img src="./rubberduck_squish.gif"> [Damien Jacobson][portfolio]
+<img src="./rubberduck_squish.gif"> [Dandelion Jacobson][portfolio]
 ---
-<a href="https://app.daily.dev/morbidlyocheese"><img src="https://api.daily.dev/devcards/34aeba072c9d405792d9b23db85257c2.png?r=cfb" align="right" width="300" alt="Damien Jacobson's Dev Card"/></a>
+<a href="https://app.daily.dev/morbidlyocheese"><img src="https://api.daily.dev/devcards/34aeba072c9d405792d9b23db85257c2.png?r=cfb" align="right" width="300" alt="Dandelion Jacobson's Dev Card"/></a>
 
 <img src="https://img.icons8.com/plasticine/2x/saving-book.png" height="30px">App Academy graduate    
 ---    
@@ -26,12 +26,12 @@ let SoftwareEngineer = class {
 	}
 }
 
-const damien = new SoftwareEngineer('Damien', 'he/him', 'RI, USA', 
+const dandelion = new SoftwareEngineer('Dandelion', 'they/them', 'OR, USA', 
 'Javascript, HTML, CSS, Python, React, Redux, Node, Express, Flask, PostgreSQL, MongoDB, Vuejs, Jest, Lua, Jinja, and Pug', 
 'VScode, Masscode, Zeal, and Sublime', 
 'Gaming, Drawing/Art, Horror, Films, Music, Writing, and Reading', 
 'Hone my skills as a SWE.', 'PC, Switch, PS4, PS5, and Mobile(Android)', 'No Mans Sky, Minecraft, Loop Hero');
-damien.intro(); // Hi, my name is Damien, pronouns are he/him and I am a Software Engineer. I live in RI, USA and I am a graduate of App Academy. I am an avid gamer but right now I am currently playing Elden Ring. Some languages I know are Javascript, HTML, CSS, Python, React, Redux, Node, Express, Flask, PostgreSQL, MongoDB, Vuejs, Jest, Lua, Jinja, and Pug and the tools I use: VScode, Masscode, Zeal, and Sublime. Thanks for stopping by!
+dandelion.intro(); // Hi, my name is Dandelion, pronouns are they/them and I am a Software Engineer. I live in OR, USA and I am a graduate of App Academy. I am an avid gamer but right now I am currently playing Elden Ring. Some languages I know are Javascript, HTML, CSS, Python, React, Redux, Node, Express, Flask, PostgreSQL, MongoDB, Vuejs, Jest, Lua, Jinja, and Pug and the tools I use: VScode, Masscode, Zeal, and Sublime. Thanks for stopping by!
 ```
 
 [![wakatime](https://wakatime.com/badge/user/7910df5e-8448-44e5-919a-4613c8470ddc.svg)](https://wakatime.com/@7910df5e-8448-44e5-919a-4613c8470ddc)
@@ -73,7 +73,7 @@ damien.intro(); // Hi, my name is Damien, pronouns are he/him and I am a Softwar
 
 <img src="https://img.icons8.com/dusk/2x/statistics.png" height="20px" padding-top="5px">Git Stats
 ---
-[![Damien's github stats](https://github-readme-stats.vercel.app/api?username=morbidlyocheese&show_icons=true&theme=dark)](https://github.com/morbidlyocheese/github-readme-stats)  
+[![dandelion's github stats](https://github-readme-stats.vercel.app/api?username=morbidlyocheese&show_icons=true&theme=dark)](https://github.com/morbidlyocheese/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=morbidlyocheese&theme=onedark)](https://github.com/morbidlyocheese/github-profile-trophy)  
 
 
@@ -81,4 +81,4 @@ damien.intro(); // Hi, my name is Damien, pronouns are he/him and I am a Softwar
 [horroreview]: https://horroreview.netlify.app/
 [portfolio]: https://damienjacobson.netlify.app/
 [moc]: https://morbidlyocheese.com/
-[linkedin]: https://www.linkedin.com/in/damienjacobson/
+[linkedin]: https://www.linkedin.com/in/dandelionjacobson/
