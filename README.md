@@ -79,6 +79,6 @@ dandelion.intro(); // Hi, my name is Dandelion, pronouns are they/them and I am 
 
 [mygames]: https://morbidlyocheese.itch.io/
 [horroreview]: https://horroreview.netlify.app/
-[portfolio]: https://damienjacobson.netlify.app/
+[portfolio]: https://dandelionjacobson.netlify.app/
 [moc]: https://morbidlyocheese.com/
 [linkedin]: https://www.linkedin.com/in/dandelionjacobson/
